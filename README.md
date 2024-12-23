@@ -24,5 +24,5 @@
 
 ### 🌐 Links
 - [Portfolio](https://github.com/3724801/Mahytab-Adel)
-- [LinkedIn]([https://linkedin.com/in/mahytabadel](https://www.linkedin.com/in/mahytab-adel-62b886229/))
+- [LinkedIn]([https://www.linkedin.com/in/mahytab-adel-62b886229/])
 
