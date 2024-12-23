@@ -23,6 +23,6 @@
 ---
 
 ### 🌐 Links
-- [Portfolio](https://mahytabadel.github.io)
-- [LinkedIn](https://linkedin.com/in/mahytabadel)
-- [GitHub](https://github.com/mahytabadel)
+//- [Portfolio](https://mahytabadel.github.io)
+- [LinkedIn]([https://linkedin.com/in/mahytabadel](https://www.linkedin.com/in/mahytab-adel-62b886229/)
+
