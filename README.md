@@ -1,6 +1,6 @@
 # Mahytab Adel
 
-👩‍💻 **Senior Computer Science Student | Full-Stack Developer**
+👩‍💻 **Senior Computer Science Student | Front-end & mobile application Developer**
 
 ---
 
@@ -23,6 +23,6 @@
 ---
 
 ### 🌐 Links
-//- [Portfolio](https://mahytabadel.github.io)
+- [Portfolio](https://github.com/3724801/Mahytab-Adel)
 - [LinkedIn]([https://linkedin.com/in/mahytabadel](https://www.linkedin.com/in/mahytab-adel-62b886229/)
 
